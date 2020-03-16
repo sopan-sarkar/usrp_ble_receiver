@@ -1,0 +1,7 @@
+gmskdemod.obj
+gmskdemod_emxAPI.obj
+gmskdemod_emxutil.obj
+gmskdemod_initialize.obj
+gmskdemod_terminate.obj
+sign.obj
+sum.obj
